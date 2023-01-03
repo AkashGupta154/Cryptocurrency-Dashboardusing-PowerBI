@@ -9,7 +9,10 @@ Steps Covered:
 6- Inter connected Multiple Pages Dashboard.    
 
 
-![Uploading IMG_20230103_120620_compress84.jpg…]()
+
+
+![IMG_20230103_120620_compress84](https://user-images.githubusercontent.com/100993371/210313856-9b788940-6aa6-446c-a661-ca05614ba6bd.jpg)
+
 
 
 
