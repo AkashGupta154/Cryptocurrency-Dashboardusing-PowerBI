@@ -7,3 +7,5 @@ Steps Covered:
 4- Cryptocurrency Dataset used ( Bitcoin , Dogecoin,Ethereum)    
 5- Multiple Page Power BI Report.    
 6- Inter connected Multiple Pages Dashboard.    
+
+"C:\Users\AKASH GUPTA\Downloads\IMG_20230103_120620_compress84.jpg"
