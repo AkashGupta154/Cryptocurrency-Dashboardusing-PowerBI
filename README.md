@@ -8,4 +8,5 @@ Steps Covered:
 5- Multiple Page Power BI Report.    
 6- Inter connected Multiple Pages Dashboard.    
 
-"C:\Users\AKASH GUPTA\Downloads\IMG_20230103_120620_compress84.jpg"
+
+![Uploading IMG_20230103_120620_compress84.jpg…]()
